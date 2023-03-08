@@ -14,6 +14,7 @@ Tech stack: Ruby on Rails 7, Devise, Bootstrap 5, Action Policy
 * **‘Codeboard’** - team project  
 Tech stack: Ruby on Rails 7, Devise, JWT, TailwindCSS, SvelteKit, Docker, Rspec  
 [https://github.com/SchoolOfElvish/codeboard](https://github.com/SchoolOfElvish/codeboard)  
+
 ## TECH STACK
 Ruby, Ruby on Rails, Git, Linux, Java, Jira, Debugging, HTML, CSS, Devise, Action Policy, SimpleForm,
 Webpacker, JWT, Rspec, Bootstrap 5, TailwindCSS, Docker, SvelteKit.
