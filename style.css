@@ -1,9 +1,10 @@
-.header{
+.main{
   margin-left: 20px;
 }
 
-.header h2{
+.main h2{
   margin-bottom: 0px;
+  margin-top: 0px;
 }
 
 .avatar img{
