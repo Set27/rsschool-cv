@@ -1,0 +1,15 @@
+.header{
+  margin-left: 20px;
+}
+
+.header h2{
+  margin-bottom: 0px;
+}
+
+.avatar img{
+  margin: 10px;
+  border-radius: 10%;
+  overflow: hidden;
+  display: inline;
+  float: right; 
+}
