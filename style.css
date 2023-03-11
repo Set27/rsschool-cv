@@ -9,11 +9,13 @@
 }
 
 .avatar img{
-  margin: 10px;
-  border-radius: 10%;
+  margin-right: 70px;
+  border-radius: 50%;
   overflow: hidden;
   display: inline;
   float: right; 
+  width: 150px;
+  height: 150px;
 }
 
 li{
